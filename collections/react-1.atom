@@ -1,0 +1,652 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://thedistro.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://thedistro.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://thedistro.ca/collections/react-1.atom"/>
+  <title>The Distro</title>
+  <updated>2019-04-18T22:54:30-04:00</updated>
+  <author>
+    <name>The Distro</name>
+  </author>
+  <entry>
+    <id>https://thedistro.ca/products/2084312580193</id>
+    <published>2019-04-18T22:54:30-04:00</published>
+    <updated>2019-04-18T22:54:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://thedistro.ca/products/omg-1"/>
+    <title>Omg</title>
+    <s:type>60mL</s:type>
+    <s:vendor>React</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0077/6834/2625/products/OMG60mL.JPG?v=1555642480"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>React<br>
+        <strong>Type: </strong>60mL<br>
+        <strong>Price: </strong>
+            8.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>REACT</strong><span>: A light and sweet, ripe mango with a fresh and juicy whisper of jackfruit and blueberry. Just the way we like it.</span></p>
+<p><span>VG/PG: 70/30</span></p>
+<p><span>Crafted by: Akash</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>0</s:tag>
+    <s:tag>0mg</s:tag>
+    <s:tag>12</s:tag>
+    <s:tag>12mg</s:tag>
+    <s:tag>15</s:tag>
+    <s:tag>15mg</s:tag>
+    <s:tag>3</s:tag>
+    <s:tag>30</s:tag>
+    <s:tag>30mg</s:tag>
+    <s:tag>3mg</s:tag>
+    <s:tag>50mg</s:tag>
+    <s:tag>6</s:tag>
+    <s:tag>60mL</s:tag>
+    <s:tag>6mg</s:tag>
+    <s:tag>Chubby</s:tag>
+    <s:tag>Chubby Gorilla</s:tag>
+    <s:tag>Dropdead</s:tag>
+    <s:tag>DropdeadLiquids</s:tag>
+    <s:tag>EJuice</s:tag>
+    <s:tag>Fresh</s:tag>
+    <s:tag>Fruit</s:tag>
+    <s:tag>Fruity</s:tag>
+    <s:tag>Gorilla</s:tag>
+    <s:tag>Jackfruit</s:tag>
+    <s:tag>Juice</s:tag>
+    <s:tag>Juicy</s:tag>
+    <s:tag>Liquids</s:tag>
+    <s:tag>Mango</s:tag>
+    <s:tag>Mango Jackfruit</s:tag>
+    <s:tag>Mango Jackfruit Peach</s:tag>
+    <s:tag>Mango Peach</s:tag>
+    <s:tag>Nicotine</s:tag>
+    <s:tag>Ohmygod</s:tag>
+    <s:tag>ohmygosh</s:tag>
+    <s:tag>omg</s:tag>
+    <s:tag>Peach</s:tag>
+    <s:tag>Peach Jackfruit</s:tag>
+    <s:tag>Premium</s:tag>
+    <s:tag>React</s:tag>
+    <s:tag>React Salt</s:tag>
+    <s:tag>Refresh</s:tag>
+    <s:tag>Refreshing</s:tag>
+    <s:tag>Salt Nicotine</s:tag>
+    <s:tag>Salt Stream</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:tag>Sweet</s:tag>
+    <s:tag>Tropical</s:tag>
+    <s:variant>
+      <id>https://thedistro.ca/products/2084312580193</id>
+      <title>Nicotine Free / 60mL</title>
+      <s:price currency="CAD">8.95</s:price>
+      <s:sku>728370319750</s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/2084312580193</id>
+      <title>3mg/mL / 60mL</title>
+      <s:price currency="CAD">8.95</s:price>
+      <s:sku>728370319743</s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/2084312580193</id>
+      <title>6mg/mL / 60mL</title>
+      <s:price currency="CAD">8.95</s:price>
+      <s:sku>728370319736</s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thedistro.ca/products/2084308549729</id>
+    <published>2019-04-18T22:53:24-04:00</published>
+    <updated>2019-04-18T22:53:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://thedistro.ca/products/yeet-1"/>
+    <title>Yeet</title>
+    <s:type>60mL</s:type>
+    <s:vendor>React</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0077/6834/2625/products/Yeet60mL.JPG?v=1555642417"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>React<br>
+        <strong>Type: </strong>60mL<br>
+        <strong>Price: </strong>
+            8.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>REACT</strong><span>: <span style="font-weight: 400;">A juice that’ll make your tastebuds dance. Tart cranberry mixed with raspberry and lemonade.</span></span></p>
+<p><span>VG/PG: 70/30</span></p>
+<p><span>Crafted by: Megan</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>0</s:tag>
+    <s:tag>0mg</s:tag>
+    <s:tag>12</s:tag>
+    <s:tag>12mg</s:tag>
+    <s:tag>15</s:tag>
+    <s:tag>15mg</s:tag>
+    <s:tag>3</s:tag>
+    <s:tag>30</s:tag>
+    <s:tag>30mg</s:tag>
+    <s:tag>3mg</s:tag>
+    <s:tag>50mg</s:tag>
+    <s:tag>6</s:tag>
+    <s:tag>60mg</s:tag>
+    <s:tag>60mL</s:tag>
+    <s:tag>6mg</s:tag>
+    <s:tag>Berrie</s:tag>
+    <s:tag>Berries</s:tag>
+    <s:tag>Berry</s:tag>
+    <s:tag>Berry Lemon</s:tag>
+    <s:tag>Berry Lemonade</s:tag>
+    <s:tag>Citrus</s:tag>
+    <s:tag>Citrus Berry</s:tag>
+    <s:tag>Cran Lemon</s:tag>
+    <s:tag>Cran Ras</s:tag>
+    <s:tag>Cran Razz</s:tag>
+    <s:tag>Cranberries</s:tag>
+    <s:tag>Cranberry</s:tag>
+    <s:tag>Cranberry Lemon</s:tag>
+    <s:tag>Cranberry Lemonade</s:tag>
+    <s:tag>Cranberry Raspberry</s:tag>
+    <s:tag>Cranberry Raspberry Lemonade</s:tag>
+    <s:tag>Drink</s:tag>
+    <s:tag>Dropdead</s:tag>
+    <s:tag>DropdeadLiquids</s:tag>
+    <s:tag>EJuice</s:tag>
+    <s:tag>Fresh</s:tag>
+    <s:tag>Fruit</s:tag>
+    <s:tag>Fruity</s:tag>
+    <s:tag>Juice</s:tag>
+    <s:tag>Juicy</s:tag>
+    <s:tag>Lemon</s:tag>
+    <s:tag>Lemon Ras</s:tag>
+    <s:tag>Lemonade</s:tag>
+    <s:tag>Liquids</s:tag>
+    <s:tag>Nicotine</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>Pink Lemon</s:tag>
+    <s:tag>Pink Lemonade</s:tag>
+    <s:tag>Premium</s:tag>
+    <s:tag>Punch</s:tag>
+    <s:tag>Raspberry</s:tag>
+    <s:tag>Raspberry Lemon</s:tag>
+    <s:tag>Raspberry Lemonade</s:tag>
+    <s:tag>Razz</s:tag>
+    <s:tag>React</s:tag>
+    <s:tag>React Salt</s:tag>
+    <s:tag>Red</s:tag>
+    <s:tag>Red Fruit</s:tag>
+    <s:tag>Refresh</s:tag>
+    <s:tag>Refreshing</s:tag>
+    <s:tag>Ripe</s:tag>
+    <s:tag>Salt</s:tag>
+    <s:tag>Salt Nicotine</s:tag>
+    <s:tag>Salt Stream</s:tag>
+    <s:tag>Sour</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:tag>Sweet</s:tag>
+    <s:tag>Sweet &amp; Sour</s:tag>
+    <s:tag>Sweet and Sour</s:tag>
+    <s:tag>Tart</s:tag>
+    <s:tag>Yee</s:tag>
+    <s:tag>Yeet</s:tag>
+    <s:variant>
+      <id>https://thedistro.ca/products/2084308549729</id>
+      <title>Nicotine Free / 60mL</title>
+      <s:price currency="CAD">8.95</s:price>
+      <s:sku>728370319637</s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/2084308549729</id>
+      <title>3mg/mL / 60mL</title>
+      <s:price currency="CAD">8.95</s:price>
+      <s:sku>728370319620</s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/2084308549729</id>
+      <title>6mg/mL / 60mL</title>
+      <s:price currency="CAD">8.95</s:price>
+      <s:sku>728370319613</s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thedistro.ca/products/2084306321505</id>
+    <published>2019-04-18T22:52:47-04:00</published>
+    <updated>2019-04-18T22:52:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://thedistro.ca/products/neato-1"/>
+    <title>Neato</title>
+    <s:type>60mL</s:type>
+    <s:vendor>React</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0077/6834/2625/products/Neato60ML.JPG?v=1555642393"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>React<br>
+        <strong>Type: </strong>60mL<br>
+        <strong>Price: </strong>
+            8.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><b>REACT</b><span style="font-weight: 400;">: A perfectly balanced sweet and tart mixed berry lime mojito. A fiesta in a bottle.</span></p>
+<p><span>VG/PG: 70/30</span></p>
+<p><span>Crafted by: Megan</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>0</s:tag>
+    <s:tag>0mg</s:tag>
+    <s:tag>12</s:tag>
+    <s:tag>12mg</s:tag>
+    <s:tag>15</s:tag>
+    <s:tag>15mg</s:tag>
+    <s:tag>3</s:tag>
+    <s:tag>30</s:tag>
+    <s:tag>30mg</s:tag>
+    <s:tag>30mL</s:tag>
+    <s:tag>3mg</s:tag>
+    <s:tag>50mg</s:tag>
+    <s:tag>6</s:tag>
+    <s:tag>60mL</s:tag>
+    <s:tag>6mg</s:tag>
+    <s:tag>Berrie</s:tag>
+    <s:tag>Berries</s:tag>
+    <s:tag>Berry</s:tag>
+    <s:tag>Berry Lime</s:tag>
+    <s:tag>Berry Mojito</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>Black Raspberry</s:tag>
+    <s:tag>Black Raspberry Lime</s:tag>
+    <s:tag>Blackberry</s:tag>
+    <s:tag>Blackberry Lime</s:tag>
+    <s:tag>Blackberry Mojito</s:tag>
+    <s:tag>Blackberry Raspberry</s:tag>
+    <s:tag>Blackberry Raspberry Lime</s:tag>
+    <s:tag>Blackberry Raspberry Mojito</s:tag>
+    <s:tag>Chubby</s:tag>
+    <s:tag>Chubby Gorilla</s:tag>
+    <s:tag>Citrus</s:tag>
+    <s:tag>Citrus Berry</s:tag>
+    <s:tag>Drink</s:tag>
+    <s:tag>Dropdead</s:tag>
+    <s:tag>DropdeadLiquids</s:tag>
+    <s:tag>EJuice</s:tag>
+    <s:tag>Fruit</s:tag>
+    <s:tag>Fruity</s:tag>
+    <s:tag>Gorilla</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>Juice</s:tag>
+    <s:tag>Juicy</s:tag>
+    <s:tag>Lime</s:tag>
+    <s:tag>Liquids</s:tag>
+    <s:tag>Mojito</s:tag>
+    <s:tag>Neat</s:tag>
+    <s:tag>Neato</s:tag>
+    <s:tag>Nicotine</s:tag>
+    <s:tag>Raspberry</s:tag>
+    <s:tag>Raspberry Lime</s:tag>
+    <s:tag>Raspberry Mojito</s:tag>
+    <s:tag>Razz</s:tag>
+    <s:tag>React</s:tag>
+    <s:tag>React Salt</s:tag>
+    <s:tag>Refresh</s:tag>
+    <s:tag>Refreshing</s:tag>
+    <s:tag>Ripe</s:tag>
+    <s:tag>Salt</s:tag>
+    <s:tag>Salt Nicotine</s:tag>
+    <s:tag>Salt Stream</s:tag>
+    <s:tag>Stream</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:tag>Sweet</s:tag>
+    <s:tag>Tart</s:tag>
+    <s:tag>Tropical</s:tag>
+    <s:variant>
+      <id>https://thedistro.ca/products/2084306321505</id>
+      <title>Nicotine Free / 60mL</title>
+      <s:price currency="CAD">8.95</s:price>
+      <s:sku>728370319699</s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/2084306321505</id>
+      <title>3mg/mL / 60mL</title>
+      <s:price currency="CAD">8.95</s:price>
+      <s:sku>728370319682</s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/2084306321505</id>
+      <title>6mg/mL / 60mL</title>
+      <s:price currency="CAD">8.95</s:price>
+      <s:sku>728370319675</s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thedistro.ca/products/2002166939745</id>
+    <published>2019-03-10T16:35:21-04:00</published>
+    <updated>2019-03-10T16:35:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://thedistro.ca/products/y-tho-1"/>
+    <title>Y Tho</title>
+    <s:type>60mL</s:type>
+    <s:vendor>React</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0077/6834/2625/products/60ml-Y_tho.jpg?v=1553564843"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>React<br>
+        <strong>Type: </strong>60mL<br>
+        <strong>Price: </strong>
+            8.95 - 9.95
+            <a href="https://thedistro.ca/products/y-tho-1">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>REACT</strong><span>: A brilliant juicy grape with a simple blend of jackfruit and gentle cooling.</span></p>
+<p><span>VG</span><span>/PG</span>: 70/30</p>
+<p><span>Crafted by: Akash</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>0</s:tag>
+    <s:tag>0mg</s:tag>
+    <s:tag>12</s:tag>
+    <s:tag>12mg</s:tag>
+    <s:tag>15</s:tag>
+    <s:tag>15mg</s:tag>
+    <s:tag>3</s:tag>
+    <s:tag>30</s:tag>
+    <s:tag>30mg</s:tag>
+    <s:tag>3mg</s:tag>
+    <s:tag>50mg</s:tag>
+    <s:tag>6</s:tag>
+    <s:tag>60mL</s:tag>
+    <s:tag>6mg</s:tag>
+    <s:tag>Best</s:tag>
+    <s:tag>Best Seller</s:tag>
+    <s:tag>Chill</s:tag>
+    <s:tag>Chilled</s:tag>
+    <s:tag>Cooled</s:tag>
+    <s:tag>Cooling</s:tag>
+    <s:tag>Dropdead</s:tag>
+    <s:tag>DropdeadLiquids</s:tag>
+    <s:tag>EJuice</s:tag>
+    <s:tag>Favourite</s:tag>
+    <s:tag>Grape</s:tag>
+    <s:tag>Grape Soda</s:tag>
+    <s:tag>Jackfruit</s:tag>
+    <s:tag>Juice</s:tag>
+    <s:tag>Juicy</s:tag>
+    <s:tag>Liquids</s:tag>
+    <s:tag>Menthol</s:tag>
+    <s:tag>Nicotine</s:tag>
+    <s:tag>React</s:tag>
+    <s:tag>React Salt</s:tag>
+    <s:tag>Salt</s:tag>
+    <s:tag>Salt Nicotine</s:tag>
+    <s:tag>Soda</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:tag>Sweet</s:tag>
+    <s:tag>Y Tho</s:tag>
+    <s:variant>
+      <id>https://thedistro.ca/products/2002166939745</id>
+      <title>Nicotine Free / 60mL</title>
+      <s:price currency="CAD">8.95</s:price>
+      <s:sku>728370319859</s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/2002166939745</id>
+      <title>3mg/mL / 60mL</title>
+      <s:price currency="CAD">8.95</s:price>
+      <s:sku>728370319842</s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/2002166939745</id>
+      <title>6mg/mL / 60mL</title>
+      <s:price currency="CAD">8.95</s:price>
+      <s:sku>728370319835</s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/2002166939745</id>
+      <title>15mg/mL / 60mL</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku>728370319828</s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/2002166939745</id>
+      <title>30mg/mL / 60mL</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku>728370319811</s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/2002166939745</id>
+      <title>50mg/mL / 60mL</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku>728370319804</s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thedistro.ca/products/2002166186081</id>
+    <published>2019-03-10T16:35:21-04:00</published>
+    <updated>2019-03-10T16:35:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://thedistro.ca/products/srsly-1"/>
+    <title>Srsly</title>
+    <s:type>60mL</s:type>
+    <s:vendor>React</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0077/6834/2625/products/60ml-Srsly.jpg?v=1553563684"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>React<br>
+        <strong>Type: </strong>60mL<br>
+        <strong>Price: </strong>
+            8.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>REACT</strong><span>: A classic juicy orange &amp; peach flavour combination with a gentle hint of cooling.</span></p>
+<p><span>VG/PG: 70/30</span></p>
+<p><span>Crafted by: Megan</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Apricot</s:tag>
+    <s:tag>Chilled</s:tag>
+    <s:tag>Menthol</s:tag>
+    <s:tag>Orange Peach</s:tag>
+    <s:tag>Srsly</s:tag>
+    <s:variant>
+      <id>https://thedistro.ca/products/2002166186081</id>
+      <title>Nicotine Free / 60mL</title>
+      <s:price currency="CAD">8.95</s:price>
+      <s:sku>728370319958</s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/2002166186081</id>
+      <title>3mg/mL / 60mL</title>
+      <s:price currency="CAD">8.95</s:price>
+      <s:sku>728370319941</s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/2002166186081</id>
+      <title>6mg/mL / 60mL</title>
+      <s:price currency="CAD">8.95</s:price>
+      <s:sku>728370319934</s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thedistro.ca/products/2002112610401</id>
+    <published>2019-03-10T16:35:21-04:00</published>
+    <updated>2019-03-10T16:35:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://thedistro.ca/products/yikes-1"/>
+    <title>Yikes</title>
+    <s:type>60mL</s:type>
+    <s:vendor>React</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0077/6834/2625/products/60ml-Yikes.jpg?v=1553564911"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>React<br>
+        <strong>Type: </strong>60mL<br>
+        <strong>Price: </strong>
+            8.95 - 9.95
+            <a href="https://thedistro.ca/products/yikes-1">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>REACT</strong><span>: A blend of fresh and candied blueberry and raspberry flavours with a sweet and sour twist - and a gentle hint of cooling.</span></p>
+<p><span>VG</span><span>/PG</span>: 70/30</p>
+<p><span>Crafted by: Megan</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>0</s:tag>
+    <s:tag>0mg</s:tag>
+    <s:tag>12</s:tag>
+    <s:tag>12mg</s:tag>
+    <s:tag>3</s:tag>
+    <s:tag>30</s:tag>
+    <s:tag>30mg</s:tag>
+    <s:tag>3mg</s:tag>
+    <s:tag>50mg</s:tag>
+    <s:tag>6</s:tag>
+    <s:tag>60mL</s:tag>
+    <s:tag>6mg</s:tag>
+    <s:tag>Best</s:tag>
+    <s:tag>Best Seller</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>Blue Raspberry</s:tag>
+    <s:tag>Blue Raspberry Slushie</s:tag>
+    <s:tag>Blue Razz</s:tag>
+    <s:tag>Blue Razz Slushie</s:tag>
+    <s:tag>Blue Slushie</s:tag>
+    <s:tag>Blueberry</s:tag>
+    <s:tag>Blueberry Raspberry</s:tag>
+    <s:tag>Blueberry Raspberry Slushie</s:tag>
+    <s:tag>Blueberry Razz</s:tag>
+    <s:tag>Blueberry Slushie</s:tag>
+    <s:tag>Candy</s:tag>
+    <s:tag>Chill</s:tag>
+    <s:tag>Chilled</s:tag>
+    <s:tag>Cooled</s:tag>
+    <s:tag>Cooling</s:tag>
+    <s:tag>Dropdead</s:tag>
+    <s:tag>DropdeadLiquids</s:tag>
+    <s:tag>EJuice</s:tag>
+    <s:tag>Favourite</s:tag>
+    <s:tag>Juice</s:tag>
+    <s:tag>Juicy</s:tag>
+    <s:tag>Liquids</s:tag>
+    <s:tag>Menthol</s:tag>
+    <s:tag>Nicotine</s:tag>
+    <s:tag>Premium</s:tag>
+    <s:tag>Raspberry</s:tag>
+    <s:tag>Razz</s:tag>
+    <s:tag>React</s:tag>
+    <s:tag>React Salt</s:tag>
+    <s:tag>Salt</s:tag>
+    <s:tag>Salt Nicotine</s:tag>
+    <s:tag>Slush</s:tag>
+    <s:tag>Slushie</s:tag>
+    <s:tag>Sour</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:tag>Sweet</s:tag>
+    <s:tag>Sweet &amp; Sour</s:tag>
+    <s:tag>Sweet and Sour</s:tag>
+    <s:tag>Tart</s:tag>
+    <s:tag>Yikes</s:tag>
+    <s:variant>
+      <id>https://thedistro.ca/products/2002112610401</id>
+      <title>Nicotine Free / 60mL</title>
+      <s:price currency="CAD">8.95</s:price>
+      <s:sku>728370315059</s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/2002112610401</id>
+      <title>3mg/mL / 60mL</title>
+      <s:price currency="CAD">8.95</s:price>
+      <s:sku>728370320046</s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/2002112610401</id>
+      <title>6mg/mL / 60mL</title>
+      <s:price currency="CAD">8.95</s:price>
+      <s:sku>728370320039</s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/2002112610401</id>
+      <title>15mg/mL / 60mL</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku>728370320022</s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/2002112610401</id>
+      <title>30mg/mL / 60mL</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku>728370320015</s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/2002112610401</id>
+      <title>50mg/mL / 60mL</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku>728370320008</s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+  </entry>
+</feed>

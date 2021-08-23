@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://thedistro.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://thedistro.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://thedistro.ca/collections/puff-bars.atom"/>
+  <title>The Distro</title>
+  <updated>2020-07-20T13:17:03-04:00</updated>
+  <author>
+    <name>The Distro</name>
+  </author>
+  <entry>
+    <id>https://thedistro.ca/products/4708687741025</id>
+    <published>2020-07-20T13:17:03-04:00</published>
+    <updated>2020-07-20T13:17:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://thedistro.ca/products/puff-flow"/>
+    <title>Puff Flow</title>
+    <s:type>Disposable</s:type>
+    <s:vendor>Puff</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0077/6834/2625/products/30_720_2_700x700_627df844-e5b3-4174-811e-68d8fa7b6d8f.png?v=1595265423"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Puff<br>
+        <strong>Type: </strong>Disposable<br>
+        <strong>Price: </strong>
+            89.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>With the FLOW the user can customize and control their airflow via a switch. The flavor of the Puff Flow is printed on the front of the packaging, and the color of the PUFF Flow also indicates flavor. </span><span><span>Each PUFF Flow disposable device comes with a pre-filled 5% (50mg) of salt nic that is enough to stay satisfied for the whole day. </span></span></p>
+<meta charset="utf-8">
+<p><span>Each Puff Flow disposable device comes with 1000+ Puffs. <br><br></span></p>
+<p><span></span><span><span style="text-decoration: underline;"><strong>Canadian Compliant Packagaing</strong></span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Puff</s:tag>
+    <s:tag>Puff Bar</s:tag>
+    <s:tag>Puff FLow</s:tag>
+    <s:tag>Puff Glow</s:tag>
+    <s:tag>Puff Plus</s:tag>
+    <s:variant>
+      <id>https://thedistro.ca/products/4708687741025</id>
+      <title>Peach Ice</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku>PIFLOW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/4708687741025</id>
+      <title>Strawberry Kiwi</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku>SKFLOW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thedistro.ca/products/4693114880097</id>
+    <published>2020-07-02T15:25:52-04:00</published>
+    <updated>2020-07-02T15:25:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://thedistro.ca/products/puff-plus-800-puff"/>
+    <title>Puff Plus - 800 Puff</title>
+    <s:type></s:type>
+    <s:vendor>The Distro</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0077/6834/2625/products/puff_vapor_puff_plus_disposable_device_-_3.2ml_-_guava_ice_-_10-pack_-_50mg.jpg?v=1593717952"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Distro<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><b>PUFF PLUS</b><span>. Introducing </span><b>PUFF PLUS</b><span>, the new pre-filled disposable device that is bigger and better than ever all while maintaining its compact size and portability. With its popular </span><b>PUFF BAR</b><span> and </span><b>PUFF</b><span> GLOW by its side, the next generation of </span><b>PUFF</b><span> is here.<br><br><span style="text-decoration: underline;"><strong>Canadian Compliant Packaging Included<br><br></strong></span>Due to high demand, some products are back-ordered and will be available shortly.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Puff Plus</s:tag>
+    <s:variant>
+      <id>https://thedistro.ca/products/4693114880097</id>
+      <title>Strawberry and Cream</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>STRAWCREAM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/4693114880097</id>
+      <title>Mango Pineapple</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>MANGOPINE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/4693114880097</id>
+      <title>Sour Apple</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>SOUR800</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/4693114880097</id>
+      <title>Apple Berry</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>APPLEBERRY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/4693114880097</id>
+      <title>Grape</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>GRAPE800</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/4693114880097</id>
+      <title>Pink Lemonade</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>PINKL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/4693114880097</id>
+      <title>Pina Colada</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>PINACOL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/4693114880097</id>
+      <title>Strawberry Watermelon</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>852662564419</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/4693114880097</id>
+      <title>Banana Ice</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>852662558265</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/4693114880097</id>
+      <title>Mixed Berries</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>852662564334</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/4693114880097</id>
+      <title>Peach Ice</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>852662564174</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/4693114880097</id>
+      <title>Melon Ice</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>MELONICETEMP</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/4693114880097</id>
+      <title>Apple Ice</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>APPLEICETEMP</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/4693114880097</id>
+      <title>Orange Soda</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>OS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/4693114880097</id>
+      <title>Mamba - Strawberry Dragonfruit</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>MB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/4693114880097</id>
+      <title>Mango</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>MG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/4693114880097</id>
+      <title>Aloe Grape</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>AG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/4693114880097</id>
+      <title>Strawberry Banana</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>SB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/4693114880097</id>
+      <title>Tangerine Ice</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>TI</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/4693114880097</id>
+      <title>Strawberry Kiwi</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>SK -</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/4693114880097</id>
+      <title>Cool Mint</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>CM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/4693114880097</id>
+      <title>Lush Ice</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>LI</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/4693114880097</id>
+      <title>Blue Razz Lemonade</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>BRL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/4693114880097</id>
+      <title>Fruit Fusion</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>FF</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/4693114880097</id>
+      <title>Lime Agave</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>LAG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/4693114880097</id>
+      <title>Coco Melon</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>MCO</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/4693114880097</id>
+      <title>Lychee Ice</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>LCHICE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/4693114880097</id>
+      <title>Guava Ice</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>GUAVAICE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thedistro.ca/products/4549315985505</id>
+    <published>2020-03-27T14:39:01-04:00</published>
+    <updated>2020-03-27T14:39:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://thedistro.ca/products/puff-bars"/>
+    <title>Puff Bars</title>
+    <s:type>Pod System</s:type>
+    <s:vendor>The Distro</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0077/6834/2625/products/Puff-Bar-Disposable-Pod-Device.jpg?v=1585334405"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Distro<br>
+        <strong>Type: </strong>Pod System<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Puff Bar raises its own bar with its newly disposable pod device to Puff away that is compact, light, and portable. It is currently one of the hottest items out in the vape market today!<br><br><meta charset="utf-8"><span style="text-decoration: underline;"><strong>Canadian Compliant Packaging Included</strong></span><br><br>10 Puff Bars per box. The average cost per unit is <b>$5.99</b><br><br>MSRP: $15.00<br><br>Due to popular demand, some items are backordered and will be available soon.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thedistro.ca/products/4549315985505</id>
+      <title>Cucumber</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>15</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/4549315985505</id>
+      <title>Blueberry Ice</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>17</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/4549315985505</id>
+      <title>Watermelon</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>WATERTEMP</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/4549315985505</id>
+      <title>Banana Ice</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>BANANATEMP300</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/4549315985505</id>
+      <title>Tobacco</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>TBTEMP</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/4549315985505</id>
+      <title>Sour Apple</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>SAPPLE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/4549315985505</id>
+      <title>Grape</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>GRAPETEMP</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/4549315985505</id>
+      <title>Cool Mint</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

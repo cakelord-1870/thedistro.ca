@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://thedistro.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://thedistro.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://thedistro.ca/collections/salt-stream-nicotine.atom"/>
+  <title>The Distro</title>
+  <updated>2019-02-27T18:32:39-05:00</updated>
+  <author>
+    <name>The Distro</name>
+  </author>
+  <entry>
+    <id>https://thedistro.ca/products/2006659006561</id>
+    <published>2019-02-27T18:32:39-05:00</published>
+    <updated>2019-02-27T18:32:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thedistro.ca/products/strawbruhy"/>
+    <title>Strawbruhy</title>
+    <s:type>30mL</s:type>
+    <s:vendor>thedistroca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0077/6834/2625/products/Strawbruhy_30ml.jpg?v=1553564095"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>thedistroca<br>
+        <strong>Type: </strong>30mL<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong><span style="color: #6fa8dc;">Salt Stream</span> <span style="color: #e06666;">Nicotine</span> <em><span style="background-color: #ff0000; color: #f3f3f3;">BASIC</span></em></strong>: A blend of ripe, fresh strawberries mixed with a hint of candied lychee.</p>
+<p><span>VG/PG: 60/40</span></p>
+<p><span>Crafted by: Akash</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>15</s:tag>
+    <s:tag>15mg</s:tag>
+    <s:tag>30</s:tag>
+    <s:tag>30mg</s:tag>
+    <s:tag>30mL</s:tag>
+    <s:tag>50mg</s:tag>
+    <s:tag>Basic</s:tag>
+    <s:tag>Candy</s:tag>
+    <s:tag>Dropdead</s:tag>
+    <s:tag>DropdeadLiquids</s:tag>
+    <s:tag>EJuice</s:tag>
+    <s:tag>Juice</s:tag>
+    <s:tag>Juicy</s:tag>
+    <s:tag>Liquids</s:tag>
+    <s:tag>Lychee</s:tag>
+    <s:tag>Nicotine</s:tag>
+    <s:tag>Salt</s:tag>
+    <s:tag>Salt Nicotine</s:tag>
+    <s:tag>Salt Stream</s:tag>
+    <s:tag>Strawberry</s:tag>
+    <s:tag>Strawbruhy</s:tag>
+    <s:tag>Stream</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:tag>Sweet</s:tag>
+    <s:variant>
+      <id>https://thedistro.ca/products/2006659006561</id>
+      <title>15mg/mL / 30mL</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku>728370319156</s:sku>
+      <s:grams>48</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/2006659006561</id>
+      <title>30mg/mL / 30mL</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku>728370319149</s:sku>
+      <s:grams>48</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/2006659006561</id>
+      <title>50mg/mL / 30mL</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku>728370319132</s:sku>
+      <s:grams>48</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thedistro.ca/products/2006658089057</id>
+    <published>2019-02-27T18:32:39-05:00</published>
+    <updated>2019-02-27T18:32:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thedistro.ca/products/watermalone"/>
+    <title>Watermalone</title>
+    <s:type>30mL</s:type>
+    <s:vendor>thedistroca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0077/6834/2625/products/Watermalone_30ml.jpg?v=1553565013"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>thedistroca<br>
+        <strong>Type: </strong>30mL<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong><span style="color: #6fa8dc;">Salt Stream</span><span> </span><span style="color: #e06666;">Nicotine</span><span> </span><span style="color: #f3f3f3; background-color: #ff0000;"><em>BASIC</em></span></strong><span>: Super flavourful sweet candied watermelons.</span></p>
+<p><span>VG/PG: 60/40</span></p>
+<p><span>Crafted by: Akash</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>15</s:tag>
+    <s:tag>15mg</s:tag>
+    <s:tag>30</s:tag>
+    <s:tag>30mg</s:tag>
+    <s:tag>30mL</s:tag>
+    <s:tag>50mg</s:tag>
+    <s:tag>Basic</s:tag>
+    <s:tag>Candy</s:tag>
+    <s:tag>Dropdead</s:tag>
+    <s:tag>DropdeadLiquids</s:tag>
+    <s:tag>EJuice</s:tag>
+    <s:tag>Gummy</s:tag>
+    <s:tag>Gummy Candy</s:tag>
+    <s:tag>Juice</s:tag>
+    <s:tag>Juicy</s:tag>
+    <s:tag>Liquids</s:tag>
+    <s:tag>Melon</s:tag>
+    <s:tag>Nicotine</s:tag>
+    <s:tag>Salt</s:tag>
+    <s:tag>Salt Nicotine</s:tag>
+    <s:tag>Salt Stream</s:tag>
+    <s:tag>Stream</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:tag>Sweet</s:tag>
+    <s:tag>Watermalone</s:tag>
+    <s:tag>Watermelon</s:tag>
+    <s:variant>
+      <id>https://thedistro.ca/products/2006658089057</id>
+      <title>15mg/mL / 30mL</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku>728370319361</s:sku>
+      <s:grams>48</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thedistro.ca/products/2006657925217</id>
+    <published>2019-02-27T18:32:39-05:00</published>
+    <updated>2019-02-27T18:32:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thedistro.ca/products/sweet-sour"/>
+    <title>Sweet &amp; Sour</title>
+    <s:type>30mL</s:type>
+    <s:vendor>thedistroca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0077/6834/2625/products/Sweet_Sour_30ml.jpg?v=1553564123"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>thedistroca<br>
+        <strong>Type: </strong>30mL<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong><span style="color: #6fa8dc;">Salt Stream</span><span> </span><span style="color: #e06666;">Nicotine</span></strong>: <span>A sweet and sour blend of sour gummy candies and tart, juicy raspberries.</span></p>
+<p><span>VG/PG: 60/40</span></p>
+<p><span>Crafted by: Akash</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>15</s:tag>
+    <s:tag>15mg</s:tag>
+    <s:tag>30</s:tag>
+    <s:tag>30mg</s:tag>
+    <s:tag>30mL</s:tag>
+    <s:tag>50mg</s:tag>
+    <s:tag>Candy</s:tag>
+    <s:tag>Dropdead</s:tag>
+    <s:tag>DropdeadLiquids</s:tag>
+    <s:tag>EJuice</s:tag>
+    <s:tag>Gummy</s:tag>
+    <s:tag>Gummy Candy</s:tag>
+    <s:tag>Juice</s:tag>
+    <s:tag>Juicy</s:tag>
+    <s:tag>Liquids</s:tag>
+    <s:tag>Nicotine</s:tag>
+    <s:tag>Raspberry</s:tag>
+    <s:tag>Salt</s:tag>
+    <s:tag>Salt Nicotine</s:tag>
+    <s:tag>Salt Stream</s:tag>
+    <s:tag>Sour</s:tag>
+    <s:tag>Stream</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:tag>Sweet</s:tag>
+    <s:tag>Sweet &amp; Sour</s:tag>
+    <s:tag>Sweet and Sour</s:tag>
+    <s:tag>Tart</s:tag>
+    <s:variant>
+      <id>https://thedistro.ca/products/2006657925217</id>
+      <title>15mg/mL / 30mL</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku>728370319422</s:sku>
+      <s:grams>48</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/2006657925217</id>
+      <title>30mg/mL / 30mL</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku>728370319415</s:sku>
+      <s:grams>48</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/2006657925217</id>
+      <title>50mg/mL / 30mL</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku>728370319408</s:sku>
+      <s:grams>48</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thedistro.ca/products/2006657400929</id>
+    <published>2019-02-27T18:32:39-05:00</published>
+    <updated>2019-02-27T18:32:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thedistro.ca/products/topical-punch"/>
+    <title>Tropical Punch</title>
+    <s:type>30mL</s:type>
+    <s:vendor>thedistroca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0077/6834/2625/products/Tropical_Punch_30ml.jpg?v=1553564464"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>thedistroca<br>
+        <strong>Type: </strong>30mL<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong><span style="color: #6fa8dc;">Salt Stream</span><span> </span><span style="color: #e06666;">Nicotine</span></strong><span>: A complex blend of tropical fruits including pineapple and creamy coconut. Sweetened with ripe strawberries and juicy watermelon.</span></p>
+<p><span>VG/PG: 60/40</span></p>
+<p><span>Crafted by: Akash</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>15</s:tag>
+    <s:tag>15mg</s:tag>
+    <s:tag>30</s:tag>
+    <s:tag>30mg</s:tag>
+    <s:tag>30mL</s:tag>
+    <s:tag>50mg</s:tag>
+    <s:tag>Candy</s:tag>
+    <s:tag>Coconut</s:tag>
+    <s:tag>Creamy Coconut</s:tag>
+    <s:tag>Dropdead</s:tag>
+    <s:tag>DropdeadLiquids</s:tag>
+    <s:tag>EJuice</s:tag>
+    <s:tag>Juice</s:tag>
+    <s:tag>Juicy</s:tag>
+    <s:tag>Liquids</s:tag>
+    <s:tag>Melon</s:tag>
+    <s:tag>Nicotine</s:tag>
+    <s:tag>Pineapple</s:tag>
+    <s:tag>Punch</s:tag>
+    <s:tag>Red</s:tag>
+    <s:tag>Ripe</s:tag>
+    <s:tag>Salt</s:tag>
+    <s:tag>Salt Nicotine</s:tag>
+    <s:tag>Salt Stream</s:tag>
+    <s:tag>Strawberry</s:tag>
+    <s:tag>Stream</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:tag>Sweet</s:tag>
+    <s:tag>Tropical</s:tag>
+    <s:tag>Tropical Punch</s:tag>
+    <s:tag>Watermelon</s:tag>
+    <s:variant>
+      <id>https://thedistro.ca/products/2006657400929</id>
+      <title>30mg/mL / 30mL</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku>728370319170</s:sku>
+      <s:grams>48</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/2006657400929</id>
+      <title>50mg/mL / 30mL</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku>728370319163</s:sku>
+      <s:grams>48</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thedistro.ca/products/2006671163489</id>
+    <published>2019-02-21T17:08:52-05:00</published>
+    <updated>2019-02-21T17:08:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thedistro.ca/products/sweet-sour-1"/>
+    <title>Sweet &amp; Sour</title>
+    <s:type>60mL</s:type>
+    <s:vendor>thedistroca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0077/6834/2625/products/Sweet_Sour.jpg?v=1553564236"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>thedistroca<br>
+        <strong>Type: </strong>60mL<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong><span style="color: #6fa8dc;">Salt Stream</span><span> </span><span style="color: #e06666;">Nicotine</span></strong><span>: </span><span>A sweet and sour blend of sour gummy candies and tart, juicy raspberries.</span></p>
+<p><span>VG/PG: 70/30</span></p>
+<p><span>Crafted by: Akash</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>0</s:tag>
+    <s:tag>0mg</s:tag>
+    <s:tag>12</s:tag>
+    <s:tag>12mg</s:tag>
+    <s:tag>3</s:tag>
+    <s:tag>3mg</s:tag>
+    <s:tag>6</s:tag>
+    <s:tag>60mL</s:tag>
+    <s:tag>6mg</s:tag>
+    <s:tag>Candy</s:tag>
+    <s:tag>Dropdead</s:tag>
+    <s:tag>DropdeadLiquids</s:tag>
+    <s:tag>EJuice</s:tag>
+    <s:tag>Gummy</s:tag>
+    <s:tag>Gummy Candy</s:tag>
+    <s:tag>Juice</s:tag>
+    <s:tag>Juicy</s:tag>
+    <s:tag>Liquids</s:tag>
+    <s:tag>Nicotine</s:tag>
+    <s:tag>Raspberry</s:tag>
+    <s:tag>Salt</s:tag>
+    <s:tag>Salt Nicotine</s:tag>
+    <s:tag>Salt Stream</s:tag>
+    <s:tag>Sour</s:tag>
+    <s:tag>Stream</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:tag>Sweet</s:tag>
+    <s:tag>Sweet &amp; Sour</s:tag>
+    <s:tag>Sweet and Sour</s:tag>
+    <s:tag>Tart</s:tag>
+    <s:variant>
+      <id>https://thedistro.ca/products/2006671163489</id>
+      <title>0mg/mL / 60mL</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku>728370319453</s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/2006671163489</id>
+      <title>3mg/mL / 60mL</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku>728370319446</s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/2006671163489</id>
+      <title>6mg/mL / 60mL</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku>728370319439</s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+  </entry>
+</feed>

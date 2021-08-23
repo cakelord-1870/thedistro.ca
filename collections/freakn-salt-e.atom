@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://thedistro.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://thedistro.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://thedistro.ca/collections/freakn-salt-e.atom"/>
+  <title>The Distro</title>
+  <updated>2019-04-18T21:57:01-04:00</updated>
+  <author>
+    <name>The Distro</name>
+  </author>
+  <entry>
+    <id>https://thedistro.ca/products/2084227055713</id>
+    <published>2019-04-18T21:57:01-04:00</published>
+    <updated>2019-04-18T21:57:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://thedistro.ca/products/milk-by-freakn-salt-e"/>
+    <title>Milk By Freak&apos;n Salt-E</title>
+    <s:type>30mL</s:type>
+    <s:vendor>thedistroca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0077/6834/2625/products/MILK.JPG?v=1555639034"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>thedistroca<br>
+        <strong>Type: </strong>30mL<br>
+        <strong>Price: </strong>
+            7.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Candied strawberries melted together in smooth almond milk.</span></p>
+<p><span>VG/PG: 60/40</span></p>
+<p><span>Crafted by: Akash &amp; Mark</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>15</s:tag>
+    <s:tag>15mg</s:tag>
+    <s:tag>25mg</s:tag>
+    <s:tag>45mg</s:tag>
+    <s:tag>Almond</s:tag>
+    <s:tag>Almond Milk</s:tag>
+    <s:tag>Candy</s:tag>
+    <s:tag>Cream</s:tag>
+    <s:tag>Creamy</s:tag>
+    <s:tag>Dropdead</s:tag>
+    <s:tag>DropdeadLiquids</s:tag>
+    <s:tag>EJuice</s:tag>
+    <s:tag>Freak</s:tag>
+    <s:tag>Freak&apos;n</s:tag>
+    <s:tag>Freak&apos;n Salt-E</s:tag>
+    <s:tag>Freakin</s:tag>
+    <s:tag>Fresh Cream</s:tag>
+    <s:tag>Juice</s:tag>
+    <s:tag>Liquids</s:tag>
+    <s:tag>Milk</s:tag>
+    <s:tag>Milky</s:tag>
+    <s:tag>Nicotine</s:tag>
+    <s:tag>Premium</s:tag>
+    <s:tag>Rich</s:tag>
+    <s:tag>Salt</s:tag>
+    <s:tag>Salt Nicotine</s:tag>
+    <s:tag>Salt Stream</s:tag>
+    <s:tag>Salt-e</s:tag>
+    <s:tag>Salty</s:tag>
+    <s:tag>Strawberry</s:tag>
+    <s:tag>Strawberry Almond</s:tag>
+    <s:tag>Strawberry Almond Milk</s:tag>
+    <s:tag>Strawberry Milk</s:tag>
+    <s:tag>Stream</s:tag>
+    <s:tag>Sweet</s:tag>
+    <s:tag>Yogurt</s:tag>
+    <s:variant>
+      <id>https://thedistro.ca/products/2084227055713</id>
+      <title>15mg/mL / 30mL</title>
+      <s:price currency="CAD">7.95</s:price>
+      <s:sku>728370319033</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/2084227055713</id>
+      <title>25mg/mL / 30mL</title>
+      <s:price currency="CAD">7.95</s:price>
+      <s:sku>728370319026</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/2084227055713</id>
+      <title>45mg/mL / 30mL</title>
+      <s:price currency="CAD">7.95</s:price>
+      <s:sku>728370319019</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thedistro.ca/products/2084225876065</id>
+    <published>2019-04-18T21:55:48-04:00</published>
+    <updated>2019-04-18T21:55:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://thedistro.ca/products/pink-by-freakn-salt-e"/>
+    <title>Pink by Freak&apos;n Salt-E</title>
+    <s:type>30mL</s:type>
+    <s:vendor>thedistroca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0077/6834/2625/products/PINK.JPG?v=1555638961"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>thedistroca<br>
+        <strong>Type: </strong>30mL<br>
+        <strong>Price: </strong>
+            7.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>A light and summery vape featuring ripe strawberries and tart raspberries. Fresh lemonade to finish it off.</span></p>
+<p><span>VG/PG: 60/40</span></p>
+<p><span>Crafted by: Akash &amp; Mark</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>15</s:tag>
+    <s:tag>15mg</s:tag>
+    <s:tag>25mg</s:tag>
+    <s:tag>30mL</s:tag>
+    <s:tag>45mg</s:tag>
+    <s:tag>Best</s:tag>
+    <s:tag>Best Seller</s:tag>
+    <s:tag>Classic</s:tag>
+    <s:tag>Dropdead</s:tag>
+    <s:tag>DropdeadLiquids</s:tag>
+    <s:tag>EJuice</s:tag>
+    <s:tag>Favourite</s:tag>
+    <s:tag>Freak</s:tag>
+    <s:tag>Freak&apos;n</s:tag>
+    <s:tag>Freak&apos;n Salt-E</s:tag>
+    <s:tag>Freakin</s:tag>
+    <s:tag>Fresh</s:tag>
+    <s:tag>Juice</s:tag>
+    <s:tag>Juicy</s:tag>
+    <s:tag>Lemon</s:tag>
+    <s:tag>Lemonade</s:tag>
+    <s:tag>Liquids</s:tag>
+    <s:tag>Nicotine</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>Pink Lemon</s:tag>
+    <s:tag>Pink Lemonade</s:tag>
+    <s:tag>Premium</s:tag>
+    <s:tag>Punch</s:tag>
+    <s:tag>Raspberry</s:tag>
+    <s:tag>Refresh</s:tag>
+    <s:tag>Refreshing</s:tag>
+    <s:tag>Ripe</s:tag>
+    <s:tag>Salt</s:tag>
+    <s:tag>Salt Nicotine</s:tag>
+    <s:tag>Salt Stream</s:tag>
+    <s:tag>Salt-e</s:tag>
+    <s:tag>Salty</s:tag>
+    <s:tag>Sangria</s:tag>
+    <s:tag>Sour</s:tag>
+    <s:tag>Strawberry</s:tag>
+    <s:tag>Stream</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:tag>Sweet</s:tag>
+    <s:tag>Sweet &amp; Sour</s:tag>
+    <s:tag>Sweet and Sour</s:tag>
+    <s:tag>Tart</s:tag>
+    <s:variant>
+      <id>https://thedistro.ca/products/2084225876065</id>
+      <title>15mg/mL / 30mL</title>
+      <s:price currency="CAD">7.95</s:price>
+      <s:sku>728370318975</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/2084225876065</id>
+      <title>25mg/mL / 30mL</title>
+      <s:price currency="CAD">7.95</s:price>
+      <s:sku>728370318968</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/2084225876065</id>
+      <title>45mg/mL / 30mL</title>
+      <s:price currency="CAD">7.95</s:price>
+      <s:sku>728370318951</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thedistro.ca/products/2084225286241</id>
+    <published>2019-04-18T21:55:13-04:00</published>
+    <updated>2019-04-18T21:55:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://thedistro.ca/products/hazel-by-freakn-salt-e"/>
+    <title>Hazel By Freak&apos;n Salt-E</title>
+    <s:type>30mL</s:type>
+    <s:vendor>thedistroca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0077/6834/2625/products/HAZEL.JPG?v=1555638926"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>thedistroca<br>
+        <strong>Type: </strong>30mL<br>
+        <strong>Price: </strong>
+            7.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>A rich and creamy hazelnut fused perfectly with dark roasted Arabic coffee. One of the best coffee flavours in Ontario.</span></p>
+<p><span>VG/PG: 60/40</span></p>
+<p><span>Crafted by: Akash &amp; Mark</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>25mg</s:tag>
+    <s:tag>45mg</s:tag>
+    <s:tag>Arabic</s:tag>
+    <s:tag>Best</s:tag>
+    <s:tag>Best Seller</s:tag>
+    <s:tag>Coffee</s:tag>
+    <s:tag>Coffee Nuts</s:tag>
+    <s:tag>Creamy</s:tag>
+    <s:tag>Dark</s:tag>
+    <s:tag>Dark Roast</s:tag>
+    <s:tag>Dropdead</s:tag>
+    <s:tag>DropdeadLiquids</s:tag>
+    <s:tag>EJuice</s:tag>
+    <s:tag>Favourite</s:tag>
+    <s:tag>Freak</s:tag>
+    <s:tag>Freak&apos;n</s:tag>
+    <s:tag>Freak&apos;n Salt-E</s:tag>
+    <s:tag>Freakin</s:tag>
+    <s:tag>Hazelnut</s:tag>
+    <s:tag>Hazelnut Coffee</s:tag>
+    <s:tag>Juice</s:tag>
+    <s:tag>Liquids</s:tag>
+    <s:tag>Nicotine</s:tag>
+    <s:tag>Nut</s:tag>
+    <s:tag>Nut Coffee</s:tag>
+    <s:tag>Nutty</s:tag>
+    <s:tag>Premium</s:tag>
+    <s:tag>Rich</s:tag>
+    <s:tag>Roast</s:tag>
+    <s:tag>Roasted</s:tag>
+    <s:tag>Salt</s:tag>
+    <s:tag>Salt Nicotine</s:tag>
+    <s:tag>Salt Stream</s:tag>
+    <s:tag>Salt-e</s:tag>
+    <s:tag>Salty</s:tag>
+    <s:tag>Steep</s:tag>
+    <s:tag>Steeped</s:tag>
+    <s:tag>Stream</s:tag>
+    <s:variant>
+      <id>https://thedistro.ca/products/2084225286241</id>
+      <title>15mg/mL / 30mL</title>
+      <s:price currency="CAD">7.95</s:price>
+      <s:sku>728370319002</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/2084225286241</id>
+      <title>25mg/mL / 30mL</title>
+      <s:price currency="CAD">7.95</s:price>
+      <s:sku>728370318999</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/2084225286241</id>
+      <title>45mg/mL / 30mL</title>
+      <s:price currency="CAD">7.95</s:price>
+      <s:sku>728370318982</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

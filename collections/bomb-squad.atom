@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://thedistro.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://thedistro.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://thedistro.ca/collections/bomb-squad.atom"/>
+  <title>The Distro</title>
+  <updated>2019-09-20T14:34:31-04:00</updated>
+  <author>
+    <name>The Distro</name>
+  </author>
+  <entry>
+    <id>https://thedistro.ca/products/3988624670817</id>
+    <published>2019-09-20T14:34:31-04:00</published>
+    <updated>2019-09-20T14:34:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://thedistro.ca/products/berry-bomb-1"/>
+    <title>Berry Bomb</title>
+    <s:type>30mL</s:type>
+    <s:vendor>thedistroca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0077/6834/2625/products/Berry_Bomb_30mL.png?v=1569002753"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>thedistroca<br>
+        <strong>Type: </strong>30mL<br>
+        <strong>Price: </strong>
+            6.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #351c75;"><strong><span>Bomb Squad</span></strong></span><span>: Truly one of the greatest Blue Raspberry Sours. Packed with an explosion of flavour *pun intended*. </span></p>
+<p><span>VG/PG: 60/40</span></p>
+<p><span>Crafted by: Megan</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>0</s:tag>
+    <s:tag>0mg</s:tag>
+    <s:tag>3</s:tag>
+    <s:tag>3mg</s:tag>
+    <s:tag>6</s:tag>
+    <s:tag>60mL</s:tag>
+    <s:tag>6mg</s:tag>
+    <s:tag>Berrie</s:tag>
+    <s:tag>Berries</s:tag>
+    <s:tag>Berry</s:tag>
+    <s:tag>Berry bomb</s:tag>
+    <s:tag>Best</s:tag>
+    <s:tag>Best Seller</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>Blue Raspberry</s:tag>
+    <s:tag>Blue Raspberry Slushie</s:tag>
+    <s:tag>Blue Razz</s:tag>
+    <s:tag>Blue Razz Slushie</s:tag>
+    <s:tag>Blue Slushie</s:tag>
+    <s:tag>Blueberry</s:tag>
+    <s:tag>Blueberry Raspberry</s:tag>
+    <s:tag>Blueberry Raspberry Slushie</s:tag>
+    <s:tag>Blueberry Razz</s:tag>
+    <s:tag>Blueberry Slushie</s:tag>
+    <s:tag>Bomb</s:tag>
+    <s:tag>Candy</s:tag>
+    <s:tag>Chubby</s:tag>
+    <s:tag>Chubby Gorilla</s:tag>
+    <s:tag>Classic</s:tag>
+    <s:tag>Dropdead</s:tag>
+    <s:tag>DropdeadLiquids</s:tag>
+    <s:tag>EJuice</s:tag>
+    <s:tag>Favourite</s:tag>
+    <s:tag>Fruit</s:tag>
+    <s:tag>Fruity</s:tag>
+    <s:tag>Gorilla</s:tag>
+    <s:tag>Juice</s:tag>
+    <s:tag>Liquids</s:tag>
+    <s:tag>Nicotine</s:tag>
+    <s:tag>Salt</s:tag>
+    <s:tag>Salt Nicotine</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:variant>
+      <id>https://thedistro.ca/products/3988624670817</id>
+      <title>15mg/mL / 30mL</title>
+      <s:price currency="CAD">6.95</s:price>
+      <s:sku>728370318609</s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/3988624670817</id>
+      <title>30mg/mL / 30mL</title>
+      <s:price currency="CAD">6.95</s:price>
+      <s:sku>728370318586</s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/3988624670817</id>
+      <title>50mg/mL / 30mL</title>
+      <s:price currency="CAD">6.95</s:price>
+      <s:sku>728370318579</s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/3988624670817</id>
+      <title>60mg/mL / 30mL</title>
+      <s:price currency="CAD">6.95</s:price>
+      <s:sku>728370318562</s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thedistro.ca/products/3988614152289</id>
+    <published>2019-09-20T14:34:30-04:00</published>
+    <updated>2019-09-20T14:34:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://thedistro.ca/products/berry-bomb"/>
+    <title>Berry Bomb</title>
+    <s:type>60mL</s:type>
+    <s:vendor>thedistroca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0077/6834/2625/products/Berry_Bomb_60mL.png?v=1569002678"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>thedistroca<br>
+        <strong>Type: </strong>60mL<br>
+        <strong>Price: </strong>
+            8.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #351c75;"><strong><span>Bomb Squad</span></strong></span><span>: Truly one of the greatest Blue Raspberry Sours. Packed with an explosion of flavour *pun intended*. </span></p>
+<p><span>VG/PG: 70/30</span></p>
+<p><span>Crafted by: Megan</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>0</s:tag>
+    <s:tag>0mg</s:tag>
+    <s:tag>3</s:tag>
+    <s:tag>3mg</s:tag>
+    <s:tag>6</s:tag>
+    <s:tag>60mL</s:tag>
+    <s:tag>6mg</s:tag>
+    <s:tag>Berrie</s:tag>
+    <s:tag>Berries</s:tag>
+    <s:tag>Berry</s:tag>
+    <s:tag>Berry bomb</s:tag>
+    <s:tag>Best</s:tag>
+    <s:tag>Best Seller</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>Blue Raspberry</s:tag>
+    <s:tag>Blue Raspberry Slushie</s:tag>
+    <s:tag>Blue Razz</s:tag>
+    <s:tag>Blue Razz Slushie</s:tag>
+    <s:tag>Blue Slushie</s:tag>
+    <s:tag>Blueberry</s:tag>
+    <s:tag>Blueberry Raspberry</s:tag>
+    <s:tag>Blueberry Raspberry Slushie</s:tag>
+    <s:tag>Blueberry Razz</s:tag>
+    <s:tag>Blueberry Slushie</s:tag>
+    <s:tag>Bomb</s:tag>
+    <s:tag>Candy</s:tag>
+    <s:tag>Chubby</s:tag>
+    <s:tag>Chubby Gorilla</s:tag>
+    <s:tag>Classic</s:tag>
+    <s:tag>Dropdead</s:tag>
+    <s:tag>DropdeadLiquids</s:tag>
+    <s:tag>EJuice</s:tag>
+    <s:tag>Favourite</s:tag>
+    <s:tag>Fruit</s:tag>
+    <s:tag>Fruity</s:tag>
+    <s:tag>Gorilla</s:tag>
+    <s:tag>Juice</s:tag>
+    <s:tag>Liquids</s:tag>
+    <s:tag>Nicotine</s:tag>
+    <s:tag>Salt</s:tag>
+    <s:tag>Salt Nicotine</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:variant>
+      <id>https://thedistro.ca/products/3988614152289</id>
+      <title>0mg/mL / 60mL</title>
+      <s:price currency="CAD">8.95</s:price>
+      <s:sku>728370318630</s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/3988614152289</id>
+      <title>3mg/mL / 60mL</title>
+      <s:price currency="CAD">8.95</s:price>
+      <s:sku>728370318623</s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/3988614152289</id>
+      <title>6mg/mL / 60mL</title>
+      <s:price currency="CAD">8.95</s:price>
+      <s:sku>728370318616</s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thedistro.ca/products/1983304859745</id>
+    <published>2019-02-27T18:32:39-05:00</published>
+    <updated>2019-02-27T18:32:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thedistro.ca/products/cherry-bomb"/>
+    <title>Cherry Bomb</title>
+    <s:type>30mL</s:type>
+    <s:vendor>thedistroca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0077/6834/2625/products/Cherry_Bomb_30mL.png?v=1569004025"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>thedistroca<br>
+        <strong>Type: </strong>30mL<br>
+        <strong>Price: </strong>
+            6.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Bomb Squad</strong>: Cherry soda mixed with a touch of candied watermelon.</span></p>
+<p><span>VG/PG: 60/40</span></p>
+<p><span>Crafted by: Akash &amp; Megan</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>15</s:tag>
+    <s:tag>15mg</s:tag>
+    <s:tag>30</s:tag>
+    <s:tag>30mg</s:tag>
+    <s:tag>30mL</s:tag>
+    <s:tag>50mg</s:tag>
+    <s:tag>Best</s:tag>
+    <s:tag>Best Seller</s:tag>
+    <s:tag>Bomb</s:tag>
+    <s:tag>Candy</s:tag>
+    <s:tag>Cherry</s:tag>
+    <s:tag>Cherry Bomb</s:tag>
+    <s:tag>Cherry Candy</s:tag>
+    <s:tag>Cherry Soda</s:tag>
+    <s:tag>Dropdead</s:tag>
+    <s:tag>DropdeadLiquids</s:tag>
+    <s:tag>EJuice</s:tag>
+    <s:tag>Favourite</s:tag>
+    <s:tag>Juice</s:tag>
+    <s:tag>Liquids</s:tag>
+    <s:tag>Melon</s:tag>
+    <s:tag>Nicotine</s:tag>
+    <s:tag>Red</s:tag>
+    <s:tag>Salt</s:tag>
+    <s:tag>Salt Nicotine</s:tag>
+    <s:tag>Salt Stream</s:tag>
+    <s:tag>Soda</s:tag>
+    <s:tag>Stream</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:tag>Watermelon</s:tag>
+    <s:tag>Watermelon Candy</s:tag>
+    <s:variant>
+      <id>https://thedistro.ca/products/1983304859745</id>
+      <title>15mg/mL / 30mL</title>
+      <s:price currency="CAD">6.95</s:price>
+      <s:sku>728370319484</s:sku>
+      <s:grams>48</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/1983304859745</id>
+      <title>30mg/mL / 30mL</title>
+      <s:price currency="CAD">6.95</s:price>
+      <s:sku>728370319477</s:sku>
+      <s:grams>48</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/1983304859745</id>
+      <title>50mg/mL / 30mL</title>
+      <s:price currency="CAD">6.95</s:price>
+      <s:sku>728370319460</s:sku>
+      <s:grams>48</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/1983304859745</id>
+      <title>60mg/mL / 30mL</title>
+      <s:price currency="CAD">6.95</s:price>
+      <s:sku>728370318593</s:sku>
+      <s:grams>48</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thedistro.ca/products/1977486803041</id>
+    <published>2019-02-21T17:08:52-05:00</published>
+    <updated>2019-02-21T17:08:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thedistro.ca/products/cherry-bomb-60ml"/>
+    <title>Cherry Bomb</title>
+    <s:type>60mL</s:type>
+    <s:vendor>thedistroca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0077/6834/2625/products/Cherry_Bomb_60mL.png?v=1569003950"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>thedistroca<br>
+        <strong>Type: </strong>60mL<br>
+        <strong>Price: </strong>
+            8.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Bomb Squad</strong>: Cherry soda mixed with a touch of candied watermelon.</span></p>
+<p><span>VG/PG: 70/30</span></p>
+<p><span>Crafted by: Akash &amp; Megan</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>0</s:tag>
+    <s:tag>0mg</s:tag>
+    <s:tag>12</s:tag>
+    <s:tag>12mg</s:tag>
+    <s:tag>15</s:tag>
+    <s:tag>3</s:tag>
+    <s:tag>3mg</s:tag>
+    <s:tag>6</s:tag>
+    <s:tag>60mL</s:tag>
+    <s:tag>6mg</s:tag>
+    <s:tag>Best</s:tag>
+    <s:tag>Best Seller</s:tag>
+    <s:tag>Bomb</s:tag>
+    <s:tag>Candy</s:tag>
+    <s:tag>Cherry</s:tag>
+    <s:tag>Cherry Bomb</s:tag>
+    <s:tag>Cherry Candy</s:tag>
+    <s:tag>Cherry Soda</s:tag>
+    <s:tag>Chubby</s:tag>
+    <s:tag>Chubby Gorilla</s:tag>
+    <s:tag>Dropdead</s:tag>
+    <s:tag>DropdeadLiquids</s:tag>
+    <s:tag>EJuice</s:tag>
+    <s:tag>Favourite</s:tag>
+    <s:tag>Gorilla</s:tag>
+    <s:tag>Juice</s:tag>
+    <s:tag>Liquids</s:tag>
+    <s:tag>Melon</s:tag>
+    <s:tag>Nicotine</s:tag>
+    <s:tag>Red</s:tag>
+    <s:tag>Red Cap</s:tag>
+    <s:tag>Salt</s:tag>
+    <s:tag>Salt Nicotine</s:tag>
+    <s:tag>Salt Stream</s:tag>
+    <s:tag>Stream</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:tag>Watermelon</s:tag>
+    <s:tag>Watermelon Candy</s:tag>
+    <s:variant>
+      <id>https://thedistro.ca/products/1977486803041</id>
+      <title>0mg/mL / 60mL</title>
+      <s:price currency="CAD">8.95</s:price>
+      <s:sku>728370319514</s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/1977486803041</id>
+      <title>3mg/mL / 60mL</title>
+      <s:price currency="CAD">8.95</s:price>
+      <s:sku>728370319507</s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/1977486803041</id>
+      <title>6mg/mL / 60mL</title>
+      <s:price currency="CAD">8.95</s:price>
+      <s:sku>728370319491</s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/1977486803041</id>
+      <title>12mg/mL / 60mL</title>
+      <s:price currency="CAD">8.95</s:price>
+      <s:sku>728370318906</s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+  </entry>
+</feed>

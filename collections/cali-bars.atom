@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://thedistro.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://thedistro.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://thedistro.ca/collections/cali-bars.atom"/>
+  <title>The Distro</title>
+  <updated>2020-08-18T20:29:34-04:00</updated>
+  <author>
+    <name>The Distro</name>
+  </author>
+  <entry>
+    <id>https://thedistro.ca/products/4733936664673</id>
+    <published>2020-08-18T20:29:34-04:00</published>
+    <updated>2020-08-18T20:29:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://thedistro.ca/products/copy-of-cali-bars-propaganda-5"/>
+    <title>Cali Bars: Propaganda 2%</title>
+    <s:type></s:type>
+    <s:vendor>The Distro</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0077/6834/2625/products/TheHype_69ac361f-b439-4cc6-90b1-32dcab9dad73.jpg?v=1597796976"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Distro<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Cali Bar x </span><span>Propaganda</span><span> Disposables require no maintenance, charging or refilling. Once it's done, just throw it away and get a new one! Each Cali Bar is pre-filled with 1.3ml of salt nic e-liquid and has a 380mah pre-charged battery.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thedistro.ca/products/4733936664673</id>
+      <title>Blue Slush Ice</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>BLUESLUSH2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/4733936664673</id>
+      <title>Illuminati</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>ILLUMINTI2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/4733936664673</id>
+      <title>Cookie Butter</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>COOKIE2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/4733936664673</id>
+      <title>Juicy Grape Ice</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>GRAPE2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/4733936664673</id>
+      <title>Sour Apple</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>SOURAPPLE2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thedistro.ca/products/4733865295969</id>
+    <published>2020-08-18T20:06:30-04:00</published>
+    <updated>2020-08-18T20:06:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://thedistro.ca/products/cali-bars-propaganda-5"/>
+    <title>Cali Bars: Propaganda 5%</title>
+    <s:type></s:type>
+    <s:vendor>The Distro</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0077/6834/2625/products/TheHype.jpg?v=1597795591"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Distro<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Cali Bar x Propaganda Disposables require no maintenance, charging or refilling. Once it's done, just throw it away and get a new one! Each Cali Bar is pre-filled with 1.3ml of salt nic e-liquid and has a 380mah pre-charged battery.<br></span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thedistro.ca/products/4733865295969</id>
+      <title>Blue Slush Ice</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>BLUESLUSH5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/4733865295969</id>
+      <title>Illuminati</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>ILLUMINTI5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/4733865295969</id>
+      <title>Cookie Butter</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>COOKIE5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/4733865295969</id>
+      <title>Juicy Grape Ice</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>GRAPE5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/4733865295969</id>
+      <title>Sour Apple</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>SOURAPPLE5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thedistro.ca/products/4721239326817</id>
+    <published>2020-08-13T15:17:26-04:00</published>
+    <updated>2020-08-13T15:17:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://thedistro.ca/products/juice-head-disposable-by-cali-bars"/>
+    <title>Juice Head Disposable By Cali Bars</title>
+    <s:type></s:type>
+    <s:vendor>The Distro</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0077/6834/2625/products/5480288_media_400x_3ef11fb7-1d82-4d7c-9592-0fe210335397.jpg?v=1596593466"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Distro<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div id="short_description_block">
+<div id="short_description_content" class="rte align_justify" itemprop="description">
+<p>Cali Bar x Juice Head Disposables require no maintenance, charging or refilling. Once it's done, just throw it away and get a new one! Each Cali Bar is pre-filled with 1.3ml of salt nic e-liquid and has a 380mah pre-charged battery.</p>
+</div>
+</div>
+<form id="buy_block" action="https://www.wetvapes.com/cart" method="post">
+<div class="box-info-product">
+<div class="product_attributes clearfix">
+<div id="attributes"></div>
+</div>
+</div>
+</form></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thedistro.ca/products/4721239326817</id>
+      <title>Peach Pear</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>Peach Pear</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/4721239326817</id>
+      <title>Strawberry Kiwi</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>STRAWKIWICALI</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/4721239326817</id>
+      <title>Blueberry Lemon</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>BLUELMN</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/4721239326817</id>
+      <title>Pineapple Grapefruit</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>PINEGRAPE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/4721239326817</id>
+      <title>Watermelon Lime</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>WATERLIME</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

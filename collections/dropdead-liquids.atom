@@ -1,0 +1,547 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://thedistro.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://thedistro.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://thedistro.ca/collections/dropdead-liquids.atom"/>
+  <title>The Distro</title>
+  <updated>2019-09-20T14:34:39-04:00</updated>
+  <author>
+    <name>The Distro</name>
+  </author>
+  <entry>
+    <id>https://thedistro.ca/products/4096959479905</id>
+    <published>2019-09-20T14:34:39-04:00</published>
+    <updated>2019-09-20T14:34:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://thedistro.ca/products/that-mint-one-1"/>
+    <title>That Mint One</title>
+    <s:type>60mL</s:type>
+    <s:vendor>thedistroca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0077/6834/2625/products/That_Mint_One_60mL.png?v=1569003839"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>thedistroca<br>
+        <strong>Type: </strong>60mL<br>
+        <strong>Price: </strong>
+            9.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Dropdead</strong></span><span>: A sweet minty fresh menthol that will freshen up your breath without *completely* blasting your nasal cavities.</span></p>
+<p><span>VG/PG: 70/30 </span></p>
+<p><span>Crafted by: Megan</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>0</s:tag>
+    <s:tag>0mg</s:tag>
+    <s:tag>3</s:tag>
+    <s:tag>3mg</s:tag>
+    <s:tag>6</s:tag>
+    <s:tag>60mL</s:tag>
+    <s:tag>6mg</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>Candy</s:tag>
+    <s:tag>Chill</s:tag>
+    <s:tag>Chilled</s:tag>
+    <s:tag>Chubby</s:tag>
+    <s:tag>Chubby Gorilla</s:tag>
+    <s:tag>Classic</s:tag>
+    <s:tag>Cooled</s:tag>
+    <s:tag>Cooling</s:tag>
+    <s:tag>Dropdead</s:tag>
+    <s:tag>DropdeadLiquids</s:tag>
+    <s:tag>EJuice</s:tag>
+    <s:tag>Favourite</s:tag>
+    <s:tag>Fresh</s:tag>
+    <s:tag>Gorilla</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>Juice</s:tag>
+    <s:tag>Liquids</s:tag>
+    <s:tag>Menthol</s:tag>
+    <s:tag>Mint</s:tag>
+    <s:tag>Mint Candy</s:tag>
+    <s:tag>Minty</s:tag>
+    <s:tag>Minty Fresh</s:tag>
+    <s:tag>Nicotine</s:tag>
+    <s:tag>One</s:tag>
+    <s:tag>Peppermint</s:tag>
+    <s:tag>Salt</s:tag>
+    <s:tag>Salt Nicotine</s:tag>
+    <s:tag>Spearment</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:tag>That</s:tag>
+    <s:tag>That Mint</s:tag>
+    <s:tag>That Mint One</s:tag>
+    <s:variant>
+      <id>https://thedistro.ca/products/4096959479905</id>
+      <title>0mg/mL / 60mL</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku>728370315066</s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/4096959479905</id>
+      <title>3mg/mL / 60mL</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku>728370315073</s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/4096959479905</id>
+      <title>6mg/mL / 60mL</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku>728370315080</s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thedistro.ca/products/4096914128993</id>
+    <published>2019-09-20T14:34:38-04:00</published>
+    <updated>2019-09-20T14:34:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://thedistro.ca/products/that-mint-one"/>
+    <title>That Mint One</title>
+    <s:type>30mL</s:type>
+    <s:vendor>thedistroca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0077/6834/2625/products/That_Mint_One_30mL.png?v=1569002976"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>thedistroca<br>
+        <strong>Type: </strong>30mL<br>
+        <strong>Price: </strong>
+            7.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #000000;"><strong>Dropdead</strong></span><span>: A sweet minty fresh menthol that will freshen up your breath without *completely* blasting your nasal cavities.</span></p>
+<p><span>VG/PG: 60/40</span></p>
+<p><span>Crafted by: Megan</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>15</s:tag>
+    <s:tag>15mg</s:tag>
+    <s:tag>30</s:tag>
+    <s:tag>30mg</s:tag>
+    <s:tag>30mL</s:tag>
+    <s:tag>50mg</s:tag>
+    <s:tag>60mg</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>Candy</s:tag>
+    <s:tag>Chill</s:tag>
+    <s:tag>Chilled</s:tag>
+    <s:tag>chilly</s:tag>
+    <s:tag>Chubby</s:tag>
+    <s:tag>Chubby Gorilla</s:tag>
+    <s:tag>Classic</s:tag>
+    <s:tag>cool</s:tag>
+    <s:tag>Cooled</s:tag>
+    <s:tag>Cooling</s:tag>
+    <s:tag>Dropdead</s:tag>
+    <s:tag>DropdeadLiquids</s:tag>
+    <s:tag>EJuice</s:tag>
+    <s:tag>Favourite</s:tag>
+    <s:tag>fresh</s:tag>
+    <s:tag>Gorilla</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>Juice</s:tag>
+    <s:tag>Liquids</s:tag>
+    <s:tag>Menthol</s:tag>
+    <s:tag>mint</s:tag>
+    <s:tag>Mint Candy</s:tag>
+    <s:tag>minty</s:tag>
+    <s:tag>minty fresh</s:tag>
+    <s:tag>Nicotine</s:tag>
+    <s:tag>one</s:tag>
+    <s:tag>Peppermint</s:tag>
+    <s:tag>Salt</s:tag>
+    <s:tag>Salt Nicotine</s:tag>
+    <s:tag>Spearmint</s:tag>
+    <s:tag>that</s:tag>
+    <s:tag>that mint</s:tag>
+    <s:tag>that mint one</s:tag>
+    <s:variant>
+      <id>https://thedistro.ca/products/4096914128993</id>
+      <title>15mg/mL / 30mL</title>
+      <s:price currency="CAD">7.95</s:price>
+      <s:sku>728370315097</s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/4096914128993</id>
+      <title>30mg/mL / 30mL</title>
+      <s:price currency="CAD">7.95</s:price>
+      <s:sku>728370315103</s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/4096914128993</id>
+      <title>50mg/mL / 30mL</title>
+      <s:price currency="CAD">7.95</s:price>
+      <s:sku>728370315110</s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/4096914128993</id>
+      <title>60mg/mL / 30mL</title>
+      <s:price currency="CAD">7.95</s:price>
+      <s:sku>728370315127</s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thedistro.ca/products/4006258475105</id>
+    <published>2019-08-23T14:06:31-04:00</published>
+    <updated>2019-08-23T14:06:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://thedistro.ca/products/new-white-pear-peach"/>
+    <title>NEW White Pear Peach</title>
+    <s:type></s:type>
+    <s:vendor>The Distro</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0077/6834/2625/products/White_Pear_Peach_60mL.png?v=1566583665"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Distro<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>A very unique, sangria-like flavour featuring Asian pear, ripe peach, and sweet cranberries.</span></p>
+<p><span>VG/PG: 70/30</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thedistro.ca/products/4006258475105</id>
+      <title>0mg/mL / 60mL</title>
+      <s:price currency="CAD">7.95</s:price>
+      <s:sku>728370319248</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/4006258475105</id>
+      <title>3mg/mL / 60mL</title>
+      <s:price currency="CAD">7.95</s:price>
+      <s:sku>728370319231</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/4006258475105</id>
+      <title>6mg/mL / 60mL</title>
+      <s:price currency="CAD">7.95</s:price>
+      <s:sku>728370319224</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thedistro.ca/products/4006258278497</id>
+    <published>2019-08-23T14:00:48-04:00</published>
+    <updated>2019-08-23T14:00:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://thedistro.ca/products/new-green-melon"/>
+    <title>NEW Green Melon</title>
+    <s:type></s:type>
+    <s:vendor>The Distro</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0077/6834/2625/products/Green_Melon_60mL.png?v=1566583602"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Distro<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span><span>A stunning mix of sour green apples and juicy fresh watermelon.<br><br></span></span>
+<p><span>VG/PG: 70/30</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thedistro.ca/products/4006258278497</id>
+      <title>0mg/mL / 60mL</title>
+      <s:price currency="CAD">7.95</s:price>
+      <s:sku>728370319330</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/4006258278497</id>
+      <title>3mg/mL / 60mL</title>
+      <s:price currency="CAD">7.95</s:price>
+      <s:sku>728370319323</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/4006258278497</id>
+      <title>6mg/mL / 60mL</title>
+      <s:price currency="CAD">7.95</s:price>
+      <s:sku>728370319316</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thedistro.ca/products/2006672867425</id>
+    <published>2019-02-21T17:08:52-05:00</published>
+    <updated>2019-02-21T17:08:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thedistro.ca/products/white-pear-peach"/>
+    <title>White Pear Peach</title>
+    <s:type>60mL</s:type>
+    <s:vendor>thedistroca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0077/6834/2625/products/White_Pear_Peach.jpg?v=1553564608"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>thedistroca<br>
+        <strong>Type: </strong>60mL<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Dropdead Liquids Premium Classic</strong><span>: A very unique, sangria-like flavour featuring Asian pear, ripe peach, and sweet cranberries.</span></p>
+<p><span>VG/PG: 70/30</span></p>
+<p><span>Crafted by: Akash</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>0</s:tag>
+    <s:tag>0mg</s:tag>
+    <s:tag>12</s:tag>
+    <s:tag>12mg</s:tag>
+    <s:tag>3</s:tag>
+    <s:tag>3mg</s:tag>
+    <s:tag>6</s:tag>
+    <s:tag>60mL</s:tag>
+    <s:tag>6mg</s:tag>
+    <s:tag>Best</s:tag>
+    <s:tag>Best Seller</s:tag>
+    <s:tag>Classic</s:tag>
+    <s:tag>Cranberries</s:tag>
+    <s:tag>Cranberry</s:tag>
+    <s:tag>Dropdead</s:tag>
+    <s:tag>DropdeadLiquids</s:tag>
+    <s:tag>EJuice</s:tag>
+    <s:tag>Favourite</s:tag>
+    <s:tag>Juice</s:tag>
+    <s:tag>Juicy</s:tag>
+    <s:tag>Liquids</s:tag>
+    <s:tag>Nicotine</s:tag>
+    <s:tag>Peach</s:tag>
+    <s:tag>Pear</s:tag>
+    <s:tag>Premium</s:tag>
+    <s:tag>Punch</s:tag>
+    <s:tag>Ripe</s:tag>
+    <s:tag>Salt</s:tag>
+    <s:tag>Salt Nicotine</s:tag>
+    <s:tag>Sangria</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:tag>Sweet</s:tag>
+    <s:tag>White</s:tag>
+    <s:tag>White Pear</s:tag>
+    <s:tag>White Pear Peach</s:tag>
+    <s:variant>
+      <id>https://thedistro.ca/products/2006672867425</id>
+      <title>0mg/mL / 60mL</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku>728370319248</s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/2006672867425</id>
+      <title>3mg/mL / 60mL</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku>728370319231</s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/2006672867425</id>
+      <title>6mg/mL / 60mL</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku>728370319224</s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thedistro.ca/products/2006672539745</id>
+    <published>2019-02-21T17:08:52-05:00</published>
+    <updated>2019-02-21T17:08:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thedistro.ca/products/rapple"/>
+    <title>Rapple</title>
+    <s:type>60mL</s:type>
+    <s:vendor>thedistroca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0077/6834/2625/products/Rapple.jpg?v=1553563328"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>thedistroca<br>
+        <strong>Type: </strong>60mL<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Dropdead Liquids Premium Classic</strong><span>: A brilliant blend of tart raspberries and sweetened candy apples.</span></p>
+<p><span>VG/PG: 70/30</span></p>
+<p><span>Crafted by: Akash</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>0</s:tag>
+    <s:tag>0mg</s:tag>
+    <s:tag>12</s:tag>
+    <s:tag>12mg</s:tag>
+    <s:tag>3</s:tag>
+    <s:tag>3mg</s:tag>
+    <s:tag>6</s:tag>
+    <s:tag>60mL</s:tag>
+    <s:tag>6mg</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>Best</s:tag>
+    <s:tag>Best Seller</s:tag>
+    <s:tag>Candy</s:tag>
+    <s:tag>Classic</s:tag>
+    <s:tag>Dropdead</s:tag>
+    <s:tag>DropdeadLiquids</s:tag>
+    <s:tag>EJuice</s:tag>
+    <s:tag>Favourite</s:tag>
+    <s:tag>Juice</s:tag>
+    <s:tag>Liquids</s:tag>
+    <s:tag>Nicotine</s:tag>
+    <s:tag>Premium</s:tag>
+    <s:tag>Rapple</s:tag>
+    <s:tag>Raspberry</s:tag>
+    <s:tag>Salt</s:tag>
+    <s:tag>Salt Nicotine</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:tag>Sweet</s:tag>
+    <s:tag>Tart</s:tag>
+    <s:variant>
+      <id>https://thedistro.ca/products/2006672539745</id>
+      <title>0mg/mL / 60mL</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku>728370319279</s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/2006672539745</id>
+      <title>3mg/mL / 60mL</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku>728370319262</s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/2006672539745</id>
+      <title>6mg/mL / 60mL</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku>728370319255</s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thedistro.ca/products/2006672146529</id>
+    <published>2019-02-21T17:08:52-05:00</published>
+    <updated>2019-02-21T17:08:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://thedistro.ca/products/green-melon-1"/>
+    <title>Green Melon</title>
+    <s:type>60mL</s:type>
+    <s:vendor>thedistroca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0077/6834/2625/products/Green_Melon.jpg?v=1553563076"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>thedistroca<br>
+        <strong>Type: </strong>60mL<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span><strong>Dropdead Liquids Premium Classic</strong>: A stunning mix of sour green apples and juicy fresh watermelon.</span></p>
+<p><span>VG/PG: 70/30</span></p>
+<p><span>Crafted by: Akash</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>0</s:tag>
+    <s:tag>0mg</s:tag>
+    <s:tag>12</s:tag>
+    <s:tag>12mg</s:tag>
+    <s:tag>3</s:tag>
+    <s:tag>3mg</s:tag>
+    <s:tag>6</s:tag>
+    <s:tag>60mL</s:tag>
+    <s:tag>6mg</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>Best</s:tag>
+    <s:tag>Best Seller</s:tag>
+    <s:tag>Candy</s:tag>
+    <s:tag>Classic</s:tag>
+    <s:tag>Dropdead</s:tag>
+    <s:tag>DropdeadLiquids</s:tag>
+    <s:tag>EJuice</s:tag>
+    <s:tag>Favourite</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>Green Melon</s:tag>
+    <s:tag>Juice</s:tag>
+    <s:tag>Liquids</s:tag>
+    <s:tag>Melon</s:tag>
+    <s:tag>Nicotine</s:tag>
+    <s:tag>Premium</s:tag>
+    <s:tag>Salt</s:tag>
+    <s:tag>Salt Nicotine</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:tag>Watermelon</s:tag>
+    <s:variant>
+      <id>https://thedistro.ca/products/2006672146529</id>
+      <title>0mg/mL / 60mL</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku>728370319330</s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/2006672146529</id>
+      <title>6mg/mL / 60mL</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku>728370319316</s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+  </entry>
+</feed>

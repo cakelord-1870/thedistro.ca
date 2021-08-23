@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://thedistro.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://thedistro.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://thedistro.ca/collections/rainy-days.atom"/>
+  <title>The Distro</title>
+  <updated>2019-08-15T16:07:35-04:00</updated>
+  <author>
+    <name>The Distro</name>
+  </author>
+  <entry>
+    <id>https://thedistro.ca/products/3988612579425</id>
+    <published>2019-08-15T16:07:35-04:00</published>
+    <updated>2019-08-15T16:07:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://thedistro.ca/products/apple-cin-1"/>
+    <title>Apple Cin</title>
+    <s:type>30mL</s:type>
+    <s:vendor>The Distro</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0077/6834/2625/products/Apple_Cin_30mL.jpg?v=1565899920"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Distro<br>
+        <strong>Type: </strong>30mL<br>
+        <strong>Price: </strong>
+            7.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #073763;"><strong>Rainy Days</strong></span><span>: Warm, spiced apple cider. Perfect for a rainy day.</span></p>
+<p><span>VG/PG: 60/40</span></p>
+<p><span>Crafted by: Megan</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thedistro.ca/products/3988612579425</id>
+      <title>15mg/mL / 30mL</title>
+      <s:price currency="CAD">7.95</s:price>
+      <s:sku>728370318661</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/3988612579425</id>
+      <title>30mg/mL / 30mL</title>
+      <s:price currency="CAD">7.95</s:price>
+      <s:sku>728370318654</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/3988612579425</id>
+      <title>50mg/mL / 30mL</title>
+      <s:price currency="CAD">7.95</s:price>
+      <s:sku>728370318647</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thedistro.ca/products/3988610777185</id>
+    <published>2019-08-15T16:07:35-04:00</published>
+    <updated>2019-08-15T16:07:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://thedistro.ca/products/apple-cin"/>
+    <title>Apple Cin</title>
+    <s:type>60mL</s:type>
+    <s:vendor>The Distro</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0077/6834/2625/products/Apple_Cin_60mL.jpg?v=1565899888"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Distro<br>
+        <strong>Type: </strong>60mL<br>
+        <strong>Price: </strong>
+            9.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #073763;"><strong>Rainy Days</strong></span><span>: Warm, spiced apple cider. Perfect for a rainy day.</span></p>
+<p><span>VG/PG: 70/30</span></p>
+<p><span>Crafted by: Megan</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thedistro.ca/products/3988610777185</id>
+      <title>0mg/mL / 60mL</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku>728370318692</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/3988610777185</id>
+      <title>3mg/mL / 60mL</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku>728370318685</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/3988610777185</id>
+      <title>6mg/mL / 60mL</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku>728370318678</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thedistro.ca/products/3988609597537</id>
+    <published>2019-08-15T16:07:35-04:00</published>
+    <updated>2019-08-15T16:07:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://thedistro.ca/products/copy-of-carma"/>
+    <title>Cocamint</title>
+    <s:type>30mL</s:type>
+    <s:vendor>The Distro</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0077/6834/2625/products/Cocamint_30mL.jpg?v=1565900806"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Distro<br>
+        <strong>Type: </strong>30mL<br>
+        <strong>Price: </strong>
+            7.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #073763;"><strong>Rainy Days</strong></span><span>: A classic chocolatey mint with a caramel twist that'll leave your taste buds wanting more.</span></p>
+<p><span>VG/PG: 60/40</span></p>
+<p><span>Crafted by: Megan</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thedistro.ca/products/3988609597537</id>
+      <title>15mg/mL / 30mL</title>
+      <s:price currency="CAD">7.95</s:price>
+      <s:sku>728370318722</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/3988609597537</id>
+      <title>30mg/mL / 30mL</title>
+      <s:price currency="CAD">7.95</s:price>
+      <s:sku>728370318715</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/3988609597537</id>
+      <title>50mg/mL / 30mL</title>
+      <s:price currency="CAD">7.95</s:price>
+      <s:sku>728370318708</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thedistro.ca/products/3988607500385</id>
+    <published>2019-08-15T16:07:34-04:00</published>
+    <updated>2019-08-15T16:07:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://thedistro.ca/products/cocamint"/>
+    <title>Cocamint</title>
+    <s:type>60mL</s:type>
+    <s:vendor>The Distro</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0077/6834/2625/products/Cocamint_60mL.jpg?v=1565900492"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Distro<br>
+        <strong>Type: </strong>60mL<br>
+        <strong>Price: </strong>
+            9.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #073763;"><strong>Rainy Days</strong></span><span>: A classic chocolatey mint with a caramel twist that'll leave your taste buds wanting more.</span></p>
+<p><span>VG/PG: 70/30</span></p>
+<p><span>Crafted by: Megan</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thedistro.ca/products/3988607500385</id>
+      <title>0mg/mL / 60mL</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku>728370318753</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/3988607500385</id>
+      <title>3mg/mL / 60mL</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku>728370318746</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/3988607500385</id>
+      <title>6mg/mL / 60mL</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku>728370318739</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thedistro.ca/products/3988607369313</id>
+    <published>2019-08-15T16:07:34-04:00</published>
+    <updated>2019-08-15T16:07:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://thedistro.ca/products/carma-1"/>
+    <title>Carma</title>
+    <s:type>60mL</s:type>
+    <s:vendor>The Distro</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0077/6834/2625/products/Carma_60mL.jpg?v=1565900218"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Distro<br>
+        <strong>Type: </strong>60mL<br>
+        <strong>Price: </strong>
+            9.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #073763;"><strong>Rainy Days</strong></span><span>: Freshly baked cake, drizzled with warm caramel and icing sugar.</span></p>
+<p><span>VG/PG: 70/30</span></p>
+<p><span>Crafted by: Megan</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thedistro.ca/products/3988607369313</id>
+      <title>0mg/mL / 60mL</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku>728370318814</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/3988607369313</id>
+      <title>3mg/mL / 60mL</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku>728370318807</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/3988607369313</id>
+      <title>6mg/mL / 60mL</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku>728370318791</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thedistro.ca/products/3988606582881</id>
+    <published>2019-08-15T16:07:34-04:00</published>
+    <updated>2019-08-15T16:07:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://thedistro.ca/products/carma"/>
+    <title>Carma</title>
+    <s:type>30mL</s:type>
+    <s:vendor>The Distro</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0077/6834/2625/products/Carma_30mL.jpg?v=1565900041"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Distro<br>
+        <strong>Type: </strong>30mL<br>
+        <strong>Price: </strong>
+            7.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #073763;"><strong>Rainy Days</strong></span><span>: Freshly baked cake, drizzled with warm caramel and icing sugar.</span></p>
+<p><span>VG/PG: 60/40</span></p>
+<p><span>Crafted by: Megan</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thedistro.ca/products/3988606582881</id>
+      <title>15mg/mL / 30mL</title>
+      <s:price currency="CAD">7.95</s:price>
+      <s:sku>728370318784</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/3988606582881</id>
+      <title>30mg/mL / 30mL</title>
+      <s:price currency="CAD">7.95</s:price>
+      <s:sku>728370318777</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/3988606582881</id>
+      <title>50mg/mL / 30mL</title>
+      <s:price currency="CAD">7.95</s:price>
+      <s:sku>728370318760</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thedistro.ca/products/3988605337697</id>
+    <published>2019-08-15T16:07:34-04:00</published>
+    <updated>2019-08-15T16:07:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://thedistro.ca/products/banpan-1"/>
+    <title>Banpan</title>
+    <s:type>30mL</s:type>
+    <s:vendor>The Distro</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0077/6834/2625/products/Banpan_30mL.jpg?v=1565899989"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Distro<br>
+        <strong>Type: </strong>30mL<br>
+        <strong>Price: </strong>
+            7.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #073763;"><strong>Rainy Days</strong></span><span>: Sweet candied banana mixed with fresh maple syrup, straight from the sugar shack.</span></p>
+<p><span>VG/PG: 60/40</span></p>
+<p><span>Crafted by: Megan</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thedistro.ca/products/3988605337697</id>
+      <title>15mg/mL / 30mL</title>
+      <s:price currency="CAD">7.95</s:price>
+      <s:sku>728370318845</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/3988605337697</id>
+      <title>30mg/mL / 30mL</title>
+      <s:price currency="CAD">7.95</s:price>
+      <s:sku>728370318838</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/3988605337697</id>
+      <title>50mg/mL / 30mL</title>
+      <s:price currency="CAD">7.95</s:price>
+      <s:sku>728370318821</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thedistro.ca/products/3988599439457</id>
+    <published>2019-08-15T16:07:34-04:00</published>
+    <updated>2019-08-15T16:07:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://thedistro.ca/products/banpan"/>
+    <title>Banpan</title>
+    <s:type>60mL</s:type>
+    <s:vendor>The Distro</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0077/6834/2625/products/Banpan_60mL.jpg?v=1565899961"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Distro<br>
+        <strong>Type: </strong>60mL<br>
+        <strong>Price: </strong>
+            9.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #073763;"><strong>Rainy Days</strong></span><span>: Sweet candied banana mixed with fresh maple syrup, straight from the sugar shack.</span></p>
+<p><span>VG/PG: 70/30</span></p>
+<p><span>Crafted by: Megan</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thedistro.ca/products/3988599439457</id>
+      <title>0mg/mL / 60mL</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku>728370318876</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/3988599439457</id>
+      <title>3mg/mL / 60mL</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku>728370318869</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/3988599439457</id>
+      <title>6mg/mL / 60mL</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku>728370318852</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

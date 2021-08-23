@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://thedistro.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://thedistro.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://thedistro.ca/collections/pop-bars.atom"/>
+  <title>The Distro</title>
+  <updated>2020-08-11T16:45:40-04:00</updated>
+  <author>
+    <name>The Distro</name>
+  </author>
+  <entry>
+    <id>https://thedistro.ca/products/4727155720289</id>
+    <published>2020-08-11T16:45:40-04:00</published>
+    <updated>2020-08-11T16:45:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://thedistro.ca/products/pop-extra"/>
+    <title>Pop Extra</title>
+    <s:type></s:type>
+    <s:vendor>The Distro</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0077/6834/2625/products/POP-Extra-Lush-Ice-1200x800.jpg?v=1597178741"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Distro<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Introducing Pop, an all in one disposable device. No filling, no charging and no mess. Pop makes vaping simple with up to 1200 puffs per device and loads of flavors to choose from. With no buttons or any confusing settings, the Pop Disposable is ready to go right out of the package.   </span></p>
+<p><span>Each Pop Disposable Device Includes:</span></p>
+<ol>
+<li><span> Single Count Package</span></li>
+<li><span> Up to 1200 Puffs Per Device</span></li>
+<li><span> 3.5ml Per Device</span></li>
+<li>
+<span> 5% Salt Nicotine By Volume</span><br>
+</li>
+</ol>
+<p><span style="text-decoration: underline;"><strong>Canadian Compliant Packaging</strong></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thedistro.ca/products/4727155720289</id>
+      <title>Pink Punch - Pink Lemonade</title>
+      <s:price currency="CAD">59.99</s:price>
+      <s:sku>PINKPUNCH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/4727155720289</id>
+      <title>Peach Lemonade</title>
+      <s:price currency="CAD">59.99</s:price>
+      <s:sku>PEACHLEM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/4727155720289</id>
+      <title>Passionfruit Orange Mango</title>
+      <s:price currency="CAD">59.99</s:price>
+      <s:sku>PASSIONFR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/4727155720289</id>
+      <title>Blue Raz</title>
+      <s:price currency="CAD">59.99</s:price>
+      <s:sku>BLUERAZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/4727155720289</id>
+      <title>Strawberry Kiwi</title>
+      <s:price currency="CAD">59.99</s:price>
+      <s:sku>STRAWKIWI</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/4727155720289</id>
+      <title>Mighty Mint</title>
+      <s:price currency="CAD">59.99</s:price>
+      <s:sku>MIGHTMINT</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thedistro.ca/products/4698435715169</id>
+    <published>2020-07-08T12:59:58-04:00</published>
+    <updated>2020-07-08T12:59:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://thedistro.ca/products/pop-bars"/>
+    <title>Pop Bar</title>
+    <s:type>Pod System</s:type>
+    <s:vendor>The Distro</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0077/6834/2625/products/Pop_-_Disposable_-_Bundle4.jpg?v=1594227693"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Distro<br>
+        <strong>Type: </strong>Pod System<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><br>Pop Disposable is a disposable vape pen device with a 280mah &amp; more than 400 puffs. This Electronic Cigarette has a super-rich flavour. Choose the flavour you love most from the ten available flavours! Small size and easy to carry, easy to use, and great taste.<br> <meta charset="utf-8"><br><span style="text-decoration: underline;"><strong>Canadian Compliant Packaging Included</strong></span>
+<h3>
+<span style="text-decoration: underline; color: #e40e0e;"><strong>Available August 28, 2020 - Available now for pre-order<br></strong></span><br>
+</h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thedistro.ca/products/4698435715169</id>
+      <title>Strawberry Lemonade</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>1144</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/4698435715169</id>
+      <title>Watermelon Lemonade</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>1145</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/4698435715169</id>
+      <title>Peach Lemonade</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>1146</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/4698435715169</id>
+      <title>Lush Ice</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>1147</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/4698435715169</id>
+      <title>Iced Pineapple</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>1148</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/4698435715169</id>
+      <title>Blue Razz</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>1149</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/4698435715169</id>
+      <title>Mango Peach Pineapple</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>1150</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/4698435715169</id>
+      <title>Banana Ice</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>1151</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/4698435715169</id>
+      <title>Grape</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>1152</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/4698435715169</id>
+      <title>Mighty Mint</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>1153</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/4698435715169</id>
+      <title>Iced Lychee</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>1154</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/4698435715169</id>
+      <title>Mango</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>1155</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/4698435715169</id>
+      <title>Strawberry Kiwi</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>1156</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/4698435715169</id>
+      <title>Pineapple Strawberry Coconut</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>1157</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thedistro.ca/products/4698435715169</id>
+      <title>Strawberry Watermelon</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>1158</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thedistro.ca/products/4693103181921</id>
+    <published>2020-07-02T15:18:56-04:00</published>
+    <updated>2020-07-02T15:18:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://thedistro.ca/products/pop-xtra-1000-puff"/>
+    <title>Pop Xtra - 1000 Puff</title>
+    <s:type></s:type>
+    <s:vendor>The Distro</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0077/6834/2625/products/Pop-Xtra-Blue-Raz-1.png?v=1593717538"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Distro<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            84.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Introducing Pop, an all in one disposable device. No filling, no charging and no mess. Pop makes vaping simple with up to 1000 puffs per device and loads of flavors to choose from. With no buttons or any confusing settings, the Pop Disposable is ready to go right out of the package. </span></p>
+<meta charset="utf-8">
+<p><span style="text-decoration: underline;"><strong>Canadian Compliant Packaging Included</strong></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pop bar</s:tag>
+    <s:tag>Puff Bar</s:tag>
+    <s:variant>
+      <id>https://thedistro.ca/products/4693103181921</id>
+      <title>Iced Pineapple</title>
+      <s:price currency="CAD">84.99</s:price>
+      <s:sku>683332495410</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://thedistro.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://thedistro.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://thedistro.ca/collections/digital-assets.atom"/>
+  <title>The Distro</title>
+  <updated>2020-08-16T17:22:37-04:00</updated>
+  <author>
+    <name>The Distro</name>
+  </author>
+  <entry>
+    <id>https://thedistro.ca/products/4730814857313</id>
+    <published>2020-08-16T17:22:37-04:00</published>
+    <updated>2020-08-16T17:22:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://thedistro.ca/products/pop-vapor-digital-assets"/>
+    <title>POP Vapor Digital Assets</title>
+    <s:type></s:type>
+    <s:vendor>The Distro</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0077/6834/2625/products/pop-logo-trademark-2-1_2.png?v=1597613135"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Distro<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This file includes digital assets for all of POP Vapor's products. This is a free downloadable product. Please add this item to your cart to receive a download link.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thedistro.ca/products/4730814857313</id>
+      <title>PNG/JEPG</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
